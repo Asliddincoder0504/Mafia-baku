@@ -1,0 +1,2 @@
+TOKEN = "6494372838:AAGbqZDk1Mu7I0QJUVeezO9l2zV65gfzCHA"
+DB_NAME = "mafia_baku.db"
